@@ -1,0 +1,132 @@
+﻿/*Home Page CSS*/
+body {
+    background-color: black;
+    color: white;
+}
+#home{
+    text-align: center;
+    font-size: 400%;
+}
+#hpurpose{
+    text-align: center;
+    font-size: 200%
+}
+#ppurpose{
+    text-align: center;
+}
+#picture {
+    margin-left: auto;
+    margin-right: auto;
+    width: 298px;
+    height: 302px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px 10px;
+    
+}
+#hintroduction{
+    text-align: center;
+    font-size: 200%;
+}
+#pintroduction{
+    text-align: center;
+}
+#Links{
+    position:fixed;
+    top: 0px;
+    right: 0px;
+}
+#homelist{
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+li a {
+    background-color: white;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 10px 0;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+}
+#landon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 292px;
+    height: 296px;
+    box-shadow: 0 -10px 15px 0 black, 0 10px 15px 0 black;
+}
+/*About Page CSS*/
+#aboutbody{
+    background-color: darkred;
+}
+#about {
+    text-align: center;
+    font-size: 400%;
+}
+#habout {
+    text-align: center;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 10px 0;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#ou {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    box-shadow: 0 -10px 15px 0 black, 0 10px 15px 0 black;
+}
+/*Projects Page CSS*/
+#projectsbody{
+    background-color: darkcyan;
+}
+#projects{
+    text-align: center;
+    font-size: 400%;
+}
+#hprojects {
+    text-align: center;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 10px 0;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#projectpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 -10px 15px 0 black, 0 10px 15px 0 black;
+}
+/*Skill Sets Page CSS*/
+#skillbody{
+    background-color: dimgrey;
+}
+#skill {
+    text-align: center;
+    font-size: 400%;
+}
+#hskill {
+    text-align: center;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 10px 0;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#skillpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    box-shadow: 0 -10px 15px 0 black, 0 10px 15px 0 black;
+}
